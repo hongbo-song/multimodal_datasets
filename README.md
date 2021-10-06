@@ -15,3 +15,15 @@
   ![Image text](https://github.com/hongbo-song/multimodal_datasets/blob/3f63e97648a2b50f07103a3a58d91a22769c15b4/pic/911262907.jpg)
 
 
+# 场景分布
+```mermaid
+pie
+数据场景分布
+"室内聊天" : 386
+"车载聊天" : 85
+"室内访谈" : 15   
+"视频会议" : 15   
+"厨房" : 15   
+"室外访谈" : 15   
+"室外访谈" : 15   
+```
