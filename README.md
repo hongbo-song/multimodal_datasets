@@ -16,19 +16,17 @@
 
 
 # 场景分布
-```mermaid
-pie
-数据场景分布
-"室内聊天" : 386
-"车载聊天" : 85
-"室内访谈" : 15   
-"视频会议" : 15   
-"厨房" : 15   
-"室外访谈" : 15   
-"室外访谈" : 15   
-```
+  ![Image text](https://github.com/hongbo-song/multimodal_datasets/blob/9e23bcf959fccda5b4847ffc57b08a13e5d344ae/charts/chart1.png)
 
 # 语言分布
+  ![Image text](https://github.com/hongbo-song/multimodal_datasets/blob/9e23bcf959fccda5b4847ffc57b08a13e5d344ae/charts/chart1.png)
+
+# 数据下载
+[视频下载](https://github.com/hongbo-song/multimodal_datasets/blob/dae5615e016e52cdc238d31c27fce416f2d072e8/video/8ku5xCwGs84-Scene-031.mp4)  
+[Label下载](https://github.com/hongbo-song/multimodal_datasets/blob/dae5615e016e52cdc238d31c27fce416f2d072e8/video/youtube693-vA4JOOvij8g-Scene-064.mp4)
+
+  
+# 尝试mermaid，发现github不支持，饼状图没有绘制
 ```mermaid
 pie
 title Pets adopted by volunteers
@@ -36,8 +34,3 @@ title Pets adopted by volunteers
 "Cats" : 85
 "Rats" : 15   
 ```
-
-# 数据下载
-[视频下载](https://github.com/hongbo-song/multimodal_datasets/blob/dae5615e016e52cdc238d31c27fce416f2d072e8/video/8ku5xCwGs84-Scene-031.mp4)  
-[Label下载](https://github.com/hongbo-song/multimodal_datasets/blob/dae5615e016e52cdc238d31c27fce416f2d072e8/video/youtube693-vA4JOOvij8g-Scene-064.mp4)
-
